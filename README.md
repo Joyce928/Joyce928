@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Joyce928
-- 👀 I’m interested in coding.
-- 🌱 I’m currently learning javaScript.
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m Joyce Lee, living in Australia.
+- 👀 I’m interested in Full Stack Developmen.
+- 🌱 I’m currently learning  HTML, CSS, JavaScript and Node.js.
 - 📫 How to reach me ...
+      👉seonju9209@gmail.com
 
 <!---
 Joyce928/Joyce928 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
