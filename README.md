@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Joyce Lee, living in Australia.
 - 👀 I’m interested in Full Stack Development.
-- 🌱 I’m currently learning  HTML, CSS, JavaScript and Node.js.
+- 🌱 I’m currently learning  HTML, CSS, JavaScript and nodeJS.
 - 📫 How to reach me ...
       👉seonju9209@gmail.com
 
